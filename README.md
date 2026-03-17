@@ -230,7 +230,7 @@ pip install -r requirements.txt
 Open:
 
 ```
-notebooks/earnings_event_analysis.ipynb
+notebooks/stock-earning-analyse.ipynb
 ```
 
 Run the cells to reproduce the analysis.
