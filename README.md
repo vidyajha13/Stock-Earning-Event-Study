@@ -177,9 +177,7 @@ The histogram below shows how stock prices typically react after earnings announ
 
 Most reactions are concentrated around small price changes, while some earnings announcements cause larger market movements.
 
-*(Example Visualization)*
 
-![Distribution](images/earnings_distribution.png)
 
 ---
 ### Sample Event Study Results
@@ -250,7 +248,7 @@ src/fetch_data.py
 ```
 
 ```
-API_KEY = "YOUR_API_KEY"
+API_KEY = "cHoNoczANkNzrIXD2tIQmWWjfFguKjy"
 ```
 
 You can obtain a free API key here:
