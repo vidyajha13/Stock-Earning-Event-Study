@@ -248,7 +248,7 @@ src/fetch_data.py
 ```
 
 ```
-API_KEY = "cHoNoczANkNzrIXD2tIQmWWjfFguKjy"
+API_KEY = "acHoNoczANkNzrIXD2tIQmWWjfFguKjy"
 ```
 
 You can obtain a free API key here:
